@@ -1,4 +1,4 @@
 # First title
 ### second title
 added titles
-![Image of me] (https://profiles-cardiff.imgix.net/attachments/2447?w=200&h=200&auto=format&crop=faces&fit=crop&q=90%22)
+![Image of pancreas from wikipedia] (https://upload.wikimedia.org/wikipedia/commons/7/7e/Blausen_0699_PancreasAnatomy2.png)
